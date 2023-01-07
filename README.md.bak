@@ -1,3 +1,2 @@
 # learning
-#Sabhajeet
-#Verma
+#Sabhajeet Verma
